@@ -1,0 +1,15 @@
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\bin\Debug\encryption.exe.config
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\bin\Debug\encryption.exe
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\bin\Debug\encryption.pdb
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\bin\Debug\encryption.xml
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.Form1.resources
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.Resources.resources
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.vbproj.GenerateResource.Cache
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.exe
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.xml
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.pdb
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\bin\Debug\encryption.exe.manifest
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\bin\Debug\encryption.application
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.exe.manifest
+c:\users\benq\documents\visual studio 2013\Projects\encryption\encryption\obj\Debug\encryption.application
+C:\Users\BENQ\Documents\Visual Studio 2013\Projects\encryption\encryption\obj\Debug\encryption.frmTest.resources
